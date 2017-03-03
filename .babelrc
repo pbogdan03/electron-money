@@ -1,0 +1,12 @@
+{
+  "plugins": ["syntax-dynamic-import", "react-hot-loader/babel"],
+  "presets": [
+    [
+      "es2015",
+      {
+        "modules": false
+      }
+    ],
+    "react"
+  ]
+}
